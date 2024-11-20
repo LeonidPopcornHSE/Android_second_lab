@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_second_lab</string>
+	<string name="city_image_desc">Описание изображения города</string>
+</resources>
